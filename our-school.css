@@ -1,0 +1,33 @@
+/* navbar section */
+.navbar {
+    background-color: rgb(255, 255, 255);
+}
+/* navbar icon */
+.navbar-div li {
+    padding-right: 30px;
+}
+.a-style {
+    color: #000;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: bolder;
+
+}
+.btn-drak {
+    
+    display: inline-flex;
+    padding: 6px 24px;
+    align-items: center;
+    gap: 10px;
+    border-radius: 33px;
+    background: #21B573;
+}
+.nav-color {
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: bolder;
+    line-height: normal;
+}
